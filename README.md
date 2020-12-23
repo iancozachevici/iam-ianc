@@ -25,7 +25,7 @@ Também sou formado em temas holísticos como Linguagem do Corpo e sou Astrólog
 
 ## Projetos :rocket: :top:
 
-:1st_place_medal: [Builder TCC - ABNT](https://github.com/iam-ianc/builder-tcc) - Aplicação desktop utilizando Electron + VueJs/Vuetify + Typescript para gerar documentos já com as normas da ABNT.
+:1st_place_medal: [Builder TCC - ABNT](https://github.com/iam-ianc/builder-tcc-demo) - Aplicação desktop utilizando Electron + VueJs/Vuetify + Typescript para gerar documentos já com as normas da ABNT.
 
 :2nd_place_medal: [Criptografia RSA](https://github.com/iam-ianc/encript-rsa) - Trabalho de conclusão do segundo semestre desenvolvido por mim com tema relacionado a criptografia utilizando Python estruturado.
 

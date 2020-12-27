@@ -1,6 +1,6 @@
 <h1 align="center">Ian Cozachevici</h1>
 <p align="center">
-  <img src="./profile_rounded.png" width="200" />
+  <img src="./profile-web-rounded.png" width="300" />
 </p>
 <p align="center"><em>Astrologer and Full Stack Developer:vulcan_salute: :man_technologist:</em></p>
 

@@ -33,7 +33,7 @@ Também sou formado em temas holísticos como Linguagem do Corpo e sou Astrólog
 
 <hr />
 
-:game_die: [Hangman](https://github.com/iam-ianc/hangman) - Hangman Game - Game desenvolvido para suprir uma necessidade de um dos clientes para fixar o aprendizado em seu material didático.
+:game_die: [Hangman](https://github.com/iam-ianc/hangman) - Game desenvolvido para suprir uma necessidade de um dos clientes para fixar o aprendizado em seu material didático.
 
 
 <!--

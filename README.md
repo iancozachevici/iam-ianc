@@ -14,13 +14,6 @@
 
 Opa! Tudo bom? :vulcan_salute:
 
-Me chamo Ian e tenho 25 anos. Curso Sistemas da Informação.
-
-Esforçado para aprender o que desejo. Não há nada neste mundo que ninguém possa aprender.
-Estudando sempre as tecnologias de Desenvolvimento Back-end | Web.
-
-Também sou formado em temas holísticos como Linguagem do Corpo e sou Astrólogo estudando por conta própria.
-
 <hr />
 
 ## Projetos :rocket: :top:

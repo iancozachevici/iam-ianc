@@ -2,14 +2,14 @@
 <p align="center">
   <img src="./profile-web-rounded.png" width="300" />
 </p>
-<p align="center"><em>Astrologer and Full Stack Developer:vulcan_salute: :man_technologist:</em></p>
+<p align="center"><em>Astrologer and Developer:vulcan_salute: :man_technologist:</em></p>
 
 <hr />
 
 ## Sobre mim
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ian%20Cozachevici-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ian-cozachevici/)](https://www.linkedin.com/in/ian-cozachevici/)&nbsp;
-[![Instagram Badge](https://img.shields.io/badge/-iam__ianc-tomato?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/iam_ianc/)](https://www.instagram.com/iancozachevici/)&nbsp;
+[![Instagram Badge](https://img.shields.io/badge/-iancozachevici-tomato?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/iam_ianc/)](https://www.instagram.com/iancozachevici/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-iansp0-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iansp0@gmail.com)](mailto:iansp0@gmail.com)
 
 Opa! Tudo bom? :vulcan_salute:
@@ -18,7 +18,7 @@ Opa! Tudo bom? :vulcan_salute:
 
 ## Projetos :rocket: :top:
 
-:1st_place_medal: [Builder TCC - ABNT](https://github.com/iam-ianc/builder-tcc-demo) - Aplicação desktop utilizando Electron + VueJs/Vuetify + Typescript para gerar documentos já com as normas da ABNT.
+:1st_place_medal: [Builder TCC - ABNT](https://github.com/iam-ianc/builder-tcc-demo) - Aplicação desktop utilizando Electron + VueJs/Vuetify + Typescript com propósito em gerar documentos já com as normas da ABNT.
 
 :2nd_place_medal: [Criptografia RSA](https://github.com/iam-ianc/encript-rsa) - Trabalho de conclusão do segundo semestre desenvolvido por mim com tema relacionado a criptografia utilizando Python estruturado.
 

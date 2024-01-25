@@ -2,7 +2,7 @@
 <p align="center">
   <img src="./profile-web-rounded.png" width="300" />
 </p>
-<p align="center"><em>Astrologer and Developer:vulcan_salute: :man_technologist:</em></p>
+<p align="center"><em>Astrologer and Developer</em></p>
 
 <hr />
 
